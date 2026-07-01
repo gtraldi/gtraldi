@@ -1,50 +1,41 @@
 # Gustavo Traldi
-**Senior Data Engineer | Cloud Architecture, Pipeline Observability & Scale**
+**Data Engineer | AWS Cloud Ecosystem, Pipeline Observability & Scale**
 
-Senior/Lead Data Engineer specializing in the AWS cloud ecosystem, data governance, and pipeline stability. Expert in designing and optimizing high-performance ELT/ETL pipelines for geospatial and tabular datasets, processing up to 20M+ records per execution.
+Data Engineer specializing in the design, optimization, and monitoring of high-throughput ELT/ETL pipelines, data quality gates, and cloud infrastructures.
 
-🔗 **Portfolio**: [gustavotraldi.vercel.app](https://gustavotraldi.vercel.app/)  
-💼 **LinkedIn**: [linkedin.com/in/gustavo-traldi-ba63431a0](https://www.linkedin.com/in/gustavo-traldi-ba63431a0/)  
-✉️ **Email**: [gtraldipereira@gmail.com](mailto:gtraldipereira@gmail.com)
-
----
-
-## 📈 Professional Impact Metrics
-
-* **Scale Management**: Maintained and monitored **450+ active Apache Airflow DAGs** covering 120+ data sources.
-* **API Optimization**: Achieved a **99%+ reduction in production deployment runtimes** by decoupling a critical API component at Serasa Experian.
-* **Pipeline Stability**: Boosted data pipeline uptime and stability by **30%** via custom observability and monitoring ecosystems.
-* **Automation Efficiency**: Reduced manual operation hours by **45%** through automated database modeling and migration to Airflow (reducing system failures by **32%**).
+🔗 **Interactive Portfolio**: [gustavotraldi.vercel.app](https://gustavotraldi.vercel.app/)  
+💼 **LinkedIn**: [linkedin.com/in/gustavo-traldi-ba63431a0](https://www.linkedin.com/in/gustavo-traldi-ba63431a0/)
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Technical Stack & Expertise
 
-* **Languages**: Python, SQL (PostgreSQL, SQLite, MySQL), JavaScript, Shell Scripting.
-* **Orchestration & Transformation**: Apache Airflow, dbt (Fundamentals Certified), AWS Lambda, Jenkins.
-* **Cloud & Infrastructure**: AWS (S3, EC2, CloudWatch, IAM), Docker.
-* **Data Quality & Testing**: Great Expectations, Soda, Pytest.
-* **Specializations**: Dimensional Modeling (Star/Snowflake Schema), Geospatial Data Processing (GeoPandas, GIS), Data Governance.
+### **Languages & Querying**
+* Python (Pandas, GeoPandas, Pytest)
+* SQL (PostgreSQL, SQLite, MySQL)
+* Bash / Shell Scripting
+
+### **Data Orchestration & Transformation**
+* Apache Airflow
+* dbt (Data Build Tool)
+* AWS Lambda, S3, EC2
+* Jenkins CI/CD
+
+### **Data Quality & Testing**
+* Great Expectations
+* Soda
+* Unit & Integration Testing (Pytest)
+
+### **Core Competencies**
+* Dimensional Modeling (Star / Snowflake Schema)
+* Geospatial Data Processing
+* Pipeline Monitoring & Observability Systems
+* Data Governance & Clean Code Practices
 
 ---
 
-## 💼 Core Experience Summary
-
-### **Data Engineer** | Serasa Experian *(Nov 2024 – Present)*
-* Part of the Agribusiness Data Platform team, managing high-throughput pipelines processing up to 20M records and 10GB+ per execution.
-* Authored 30+ AWS Lambda serverless functions for secure data delivery.
-* Managed deployments and environment promotions (~100/month) via Jenkins pipelines with peer code reviews.
-
-### **Data Analyst** | Verx Tecnologia *(Aug 2022 – Nov 2024)*
-* Migrated legacy ingestion jobs running on EC2 cronjobs to structured Apache Airflow environments, reducing data failures by 32%.
-* Ported serverless functions from JavaScript to Python, yielding a 10% execution performance gain.
-* Modeled relational schemas in PostgreSQL to automate downstream client reports.
-
----
-
-## 🎓 Education & Certifications
-
-* **B.S. in Computer Science** — Centro Universitário Max Planck (UniMAX, Expected 2026)
-* **Associate Data Engineer in SQL** — DataCamp
-* **dbt Fundamentals Certificate** — dbt Labs
-* **English Proficiency C1** — Valencia College
+## 📈 Scalability & Technical Metrics
+* **Orchestration**: Experience managing and monitoring **450+ active Airflow DAGs**.
+* **Volume**: Processing datasets scaling up to **20M+ records** per execution.
+* **Optimization**: Performance decoupling resulting in **99%+ reduction** in critical runtime deployment processes.
+* **Automation**: Migrations of legacy ingestion jobs from EC2/cron to structured Airflow DAGs, reducing system failures by **32%**.
