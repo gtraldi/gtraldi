@@ -1,10 +1,10 @@
 # Gustavo Traldi
-**Senior Data Engineer | Cloud Architecture, Pipeline Observability & Scale**
+**Data Engineer**
 
-Senior/Lead Data Engineer specializing in the AWS cloud ecosystem, data governance, and pipeline stability. Expert in designing and optimizing high-performance ELT/ETL pipelines for geospatial and tabular datasets, processing up to 20M+ records per execution.
+Data Engineer specializing in the AWS cloud ecosystem, data governance, and pipeline stability. Expert in designing and optimizing high-performance ELT/ETL pipelines for geospatial and tabular datasets.
 
 🔗 **Portfolio**: [gustavotraldi.vercel.app](https://gustavotraldi.vercel.app/)  
-💼 **LinkedIn**: [linkedin.com/in/gustavo-traldi-ba63431a0](https://www.linkedin.com/in/gustavo-traldi-ba63431a0/)  
+💼 **LinkedIn**: [linkedin.com/in/gustavo-traldi](https://www.linkedin.com/in/gustavo-traldi)  
 ✉️ **Email**: [gtraldipereira@gmail.com](mailto:gtraldipereira@gmail.com)
 
 ---
@@ -23,7 +23,7 @@ Senior/Lead Data Engineer specializing in the AWS cloud ecosystem, data governan
 * **Languages**: Python, SQL (PostgreSQL, SQLite, MySQL), JavaScript, Shell Scripting.
 * **Orchestration & Transformation**: Apache Airflow, dbt (Fundamentals Certified), AWS Lambda, Jenkins.
 * **Cloud & Infrastructure**: AWS (S3, EC2, CloudWatch, IAM), Docker.
-* **Data Quality & Testing**: Great Expectations, Soda, Pytest.
+* **Data Quality & Testing**: Pytest.
 * **Specializations**: Dimensional Modeling (Star/Snowflake Schema), Geospatial Data Processing (GeoPandas, GIS), Data Governance.
 
 ---
@@ -47,4 +47,3 @@ Senior/Lead Data Engineer specializing in the AWS cloud ecosystem, data governan
 * **B.S. in Computer Science** — Centro Universitário Max Planck (UniMAX, Expected 2026)
 * **Associate Data Engineer in SQL** — DataCamp
 * **dbt Fundamentals Certificate** — dbt Labs
-* **English Proficiency C1** — Valencia College
