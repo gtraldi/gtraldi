@@ -1,61 +1,50 @@
-# 📡 Gustavo Traldi — Data Engineering Control Center
-`DEVELOPER_ENVIRONMENT: ACTIVE // STACK: AWS, AIRFLOW, DBT, POSTGRESQL`
+# Gustavo Traldi
+**Senior Data Engineer | Cloud Architecture, Pipeline Observability & Scale**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Ingestion-10b981?style=flat-square&logo=apache-airflow" alt="Status">
-  <img src="https://img.shields.io/badge/Observability-99.8%25%20SLA-06b6d4?style=flat-square" alt="SLA">
-  <img src="https://img.shields.io/badge/Origin-Serasa%20Experian-6366f1?style=flat-square" alt="Employer">
-</div>
+Senior/Lead Data Engineer specializing in the AWS cloud ecosystem, data governance, and pipeline stability. Expert in designing and optimizing high-performance ELT/ETL pipelines for geospatial and tabular datasets, processing up to 20M+ records per execution.
 
----
-
-### ⚙️ Pipeline Specifications
-
-Sou Engenheiro de Dados especializado no ecossistema AWS, focando em escalabilidade, governança de dados e observabilidade de fluxos de ETL/ELT. Atualmente, atuo na plataforma de dados do Agronegócio na **Serasa Experian**, gerenciando fluxos de ingestão que processam milhões de registros.
-
-* **Conexão Principal**: [gustavotraldi.vercel.app](https://gustavotraldi.vercel.app/) 🌐
-* **LinkedIn**: [gustavo-traldi-ba63431a0](https://www.linkedin.com/in/gustavo-traldi-ba63431a0/) 💼
+🔗 **Portfolio**: [gustavotraldi.vercel.app](https://gustavotraldi.vercel.app/)  
+💼 **LinkedIn**: [linkedin.com/in/gustavo-traldi-ba63431a0](https://www.linkedin.com/in/gustavo-traldi-ba63431a0/)  
+✉️ **Email**: [gtraldipereira@gmail.com](mailto:gtraldipereira@gmail.com)
 
 ---
 
-### 📊 System Metrics (Production Stream)
+## 📈 Professional Impact Metrics
 
-```text
-+-------------------+----------------------------+-----------------------------+
-| System Property   | Current Value              | Target Metric               |
-+-------------------+----------------------------+-----------------------------+
-| Active Pipelines  | 450+ Airflow DAGs          | Continuous Delivery         |
-| Peak Volume       | 20M+ Records / execution   | Large Scale Geospatial Data |
-| Ingestion Sources | 120+ Database Connectors   | Multithreading Streams      |
-| Deploy Velocity   | 99% decrease in run times  | Optimized AWS Lambda        |
-+-------------------+----------------------------+-----------------------------+
-```
+* **Scale Management**: Maintained and monitored **450+ active Apache Airflow DAGs** covering 120+ data sources.
+* **API Optimization**: Achieved a **99%+ reduction in production deployment runtimes** by decoupling a critical API component at Serasa Experian.
+* **Pipeline Stability**: Boosted data pipeline uptime and stability by **30%** via custom observability and monitoring ecosystems.
+* **Automation Efficiency**: Reduced manual operation hours by **45%** through automated database modeling and migration to Airflow (reducing system failures by **32%**).
 
 ---
 
-### 🛠️ Tech Stack & Dimensions
+## 🛠️ Technical Expertise
 
-```sql
-SELECT * FROM dim_languages WHERE competency = 'Advanced';
--- Python, SQL (PostgreSQL, SQLite), JavaScript
-
-SELECT * FROM dim_tools WHERE competency = 'Advanced';
--- Apache Airflow, dbt, AWS (S3, EC2, Lambda), Docker, Pytest, Jenkins
-```
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</div>
+* **Languages**: Python, SQL (PostgreSQL, SQLite, MySQL), JavaScript, Shell Scripting.
+* **Orchestration & Transformation**: Apache Airflow, dbt (Fundamentals Certified), AWS Lambda, Jenkins.
+* **Cloud & Infrastructure**: AWS (S3, EC2, CloudWatch, IAM), Docker.
+* **Data Quality & Testing**: Great Expectations, Soda, Pytest.
+* **Specializations**: Dimensional Modeling (Star/Snowflake Schema), Geospatial Data Processing (GeoPandas, GIS), Data Governance.
 
 ---
 
-### 🎯 Current Operations
+## 💼 Core Experience Summary
 
-* 📡 Otimizando pipelines geoespaciais e tabulares em larga escala.
-* 🛡️ Implementando barramentos de Data Quality com testes e assertions rigorosos.
-* 🚀 Estudando novas arquiteturas voltadas para eficiência de storage e custos em Cloud.
+### **Data Engineer** | Serasa Experian *(Nov 2024 – Present)*
+* Part of the Agribusiness Data Platform team, managing high-throughput pipelines processing up to 20M records and 10GB+ per execution.
+* Authored 30+ AWS Lambda serverless functions for secure data delivery.
+* Managed deployments and environment promotions (~100/month) via Jenkins pipelines with peer code reviews.
+
+### **Data Analyst** | Verx Tecnologia *(Aug 2022 – Nov 2024)*
+* Migrated legacy ingestion jobs running on EC2 cronjobs to structured Apache Airflow environments, reducing data failures by 32%.
+* Ported serverless functions from JavaScript to Python, yielding a 10% execution performance gain.
+* Modeled relational schemas in PostgreSQL to automate downstream client reports.
+
+---
+
+## 🎓 Education & Certifications
+
+* **B.S. in Computer Science** — Centro Universitário Max Planck (UniMAX, Expected 2026)
+* **Associate Data Engineer in SQL** — DataCamp
+* **dbt Fundamentals Certificate** — dbt Labs
+* **English Proficiency C1** — Valencia College
