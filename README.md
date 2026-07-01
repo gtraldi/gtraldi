@@ -4,7 +4,7 @@
 Data Engineer specializing in the design, optimization, and monitoring of high-throughput ELT/ETL pipelines, data quality gates, and cloud infrastructures.
 
 🔗 **Interactive Portfolio**: [gustavotraldi.vercel.app](https://gustavotraldi.vercel.app/)  
-💼 **LinkedIn**: [linkedin.com/in/gustavo-traldi-ba63431a0](https://www.linkedin.com/in/gustavo-traldi-ba63431a0/)
+💼 **LinkedIn**: [linkedin.com/in/gustavo-traldi](https://www.linkedin.com/in/gustavo-traldi)
 
 ---
 
