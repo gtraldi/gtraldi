@@ -22,8 +22,6 @@ Data Engineer specializing in the design, optimization, and monitoring of high-t
 * Jenkins CI/CD
 
 ### **Data Quality & Testing**
-* Great Expectations
-* Soda
 * Unit & Integration Testing (Pytest)
 
 ### **Core Competencies**
